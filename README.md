@@ -1,2 +1,2 @@
 # hello-world
-first repository to use
+This is the README for my first repository
